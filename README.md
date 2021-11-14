@@ -29,5 +29,5 @@ dalvik/android
 
  klean login pake nomer korban nah kan udh ya minta kode verivikaisi nya
 Pergi ke mestaploit ketil dump_sms nah ntar bakal muncul kode 
-Kalian buka tab baru  nah contoh ya kode nya dari mestaploit sms_dump_
+Kalian buka tab baru  nah contoh ya kode nya dari mestaploit sms_dump_29910101.txt
 29910101.txt  nah  kan kalian sudah buka tab baruya kalian ketik  cat (kode dari mestaploitnya)
